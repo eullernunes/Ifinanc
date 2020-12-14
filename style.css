@@ -79,9 +79,8 @@ img {
 .conteudo_principal {
   color: #fff;
   font-size: 1.8rem;
-  background-image: url('img.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color:rgb(128, 148, 216) ;
+ 
   text-align: center;
   min-height: 600px;
   margin-top: 5px;
