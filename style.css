@@ -79,7 +79,7 @@ img {
 .conteudo_principal {
   color: #fff;
   font-size: 1.8rem;
-  background-image: url('/img/img.jpeg');
+  background-image: url('img.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
